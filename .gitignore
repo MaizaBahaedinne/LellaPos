@@ -2,3 +2,5 @@
 #codeigniter 3
 
 
+*.php
+application/config/database.php
